@@ -4,25 +4,6 @@
 
 Me chamo Victor Garrido, tenho 24 anos e sou natural do Distrito Federal. Concluí o ensino superior no CEUB, com o bacharelado de Ciências da Computação. Sou apaixonado por tecnologia e estou em busca de minha primeira experiência de trabalho na área.
 
-<p align="left">
-    <a>
-    </a> 
-    <a href="https://github.com/HerculeGarrido?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/HerculeGarrido?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/HerculeGarrido?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/HerculeGarrido?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
