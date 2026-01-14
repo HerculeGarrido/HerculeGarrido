@@ -1,4 +1,4 @@
-# 🤴 Victor Garrido
+#  Victor Garrido
 
 **`Desenvolvedor Frontend`**
 
