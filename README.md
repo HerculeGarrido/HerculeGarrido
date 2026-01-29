@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Victor Garrido, tenho 24 anos e sou natural do Distrito Federal. Concluí o ensino superior no CEUB em Bacharel de Ciências da Computação. Sou apaixonado por tecnologia e estou em busca de experiência na área de Frontenc.
+Me chamo Victor Garrido, tenho 24 anos e sou natural do Distrito Federal. Concluí o ensino superior no CEUB em Bacharel de Ciências da Computação. Sou apaixonado por tecnologia e estou em busca de experiência na área de Frontend.
 
 ---
 
